@@ -1,8 +1,8 @@
-# Rust-PDF
-A better looking pdf of awesome book by rust community
+# Rust Official Book in PDF
+A better looking pdf of awesome book by rust community.
 
 
-If you want hard copy starch free (Save environment Jude) please buy it from here.
+If you want hard copy starch free please buy it from here.
 
 https://nostarch.com/rust
 
@@ -13,3 +13,5 @@ I always try to sync to latest version in case if you cannot see it then here is
 https://github.com/rust-lang/book
 
 Thanks to Carlos and Steve.
+
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
