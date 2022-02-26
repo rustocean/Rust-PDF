@@ -1,17 +1,14 @@
 # Rust Official Book in PDF
-A better looking pdf of awesome book by rust community.
+
+Please use the following link for updated PDF (Updated Daily): 
+
+https://github.com/shirshak55/Rust-Book-In-PDF/releases
+
+Thanks :)
 
 
 If you want hard copy starch free please buy it from here.
 
 https://nostarch.com/rust
-
-We need to support Rust team for their awesomeness :)
-
-I always try to sync to latest version in case if you cannot see it then here is actual repo
-
-https://github.com/rust-lang/book
-
-Thanks to Carlos and Steve.
 
 ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
